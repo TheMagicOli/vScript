@@ -11,4 +11,3 @@ Currently, vScript has a custom file type that only reads ASCII only charecters.
 - Titles
 - Notes/Information/Comments
 - Custom Binding Metadata instead of Global Metadata.
--
